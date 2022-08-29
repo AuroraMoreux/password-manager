@@ -1,3 +1,4 @@
+#100 days of code course project idea
 from tkinter import *
 from tkinter import messagebox
 from random import randint, choice, shuffle
